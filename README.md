@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/dtyn17">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="YOUR_LINKEDIN">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=dtyns17&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Learning by building real projects instead of collecting tutorials like Pokémon
 ```python
 class Developer:
 
-    name = "Nguyen Duc Tin"
+    name = "Dang Duc Tin"
     location = "Vietnam 🇻🇳"
     role = "IT Student & Developer"
 
@@ -263,7 +263,7 @@ A full-stack e-commerce project focused on product management and database archi
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/dtyns17?tab=repositories">
   <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -274,12 +274,12 @@ A full-stack e-commerce project focused on product management and database archi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dtyns17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtyns17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dtyns17&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -295,7 +295,7 @@ A full-stack e-commerce project focused on product management and database archi
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dtyns17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </p>
 
 ---
@@ -303,7 +303,7 @@ A full-stack e-commerce project focused on product management and database archi
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00f7ff&line=8a2be2&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dtyns17&bg_color=0d1117&color=00f7ff&line=8a2be2&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
