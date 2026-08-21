@@ -1,175 +1,187 @@
-<!-- ==================== HERO ==================== -->
+<h1 align="center">
+  Đặng Đức Tín
+</h1>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:111827&height=180&section=header&text=Đặng%20Đức%20Tín&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20IT%20Student&descAlignY=60&descSize=18" width="100%"/> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Information+Technology+Student+%F0%9F%92%BB;Backend+%26+Full-Stack+Developer;Python+%7C+FastAPI+%7C+JavaScript;Building+Projects%2C+Learning+Every+Day;Turning+Ideas+Into+Working+Systems+%E2%9A%A1" alt="Typing SVG" />
+</p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+FastAPI+%7C+SQL;Building+RESTful+APIs;Database+%26+System+Design;Learning+by+Building" alt="Typing SVG" /> </p>
+<p align="center">
+  <strong>BUILD.</strong>&nbsp;&nbsp;
+  <strong>LEARN.</strong>&nbsp;&nbsp;
+  <strong>SHIP.</strong>
+</p>
 
-<p align="center"> <a href="https://github.com/dtyns17"> <img src="https://img.shields.io/badge/GitHub-dtyns17-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/dangductin-dev/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:dtyn13579@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dangductin-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/dg.ductin.17">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@dg.ductins.17?is_from_webapp=1&sender_device=pc">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="mailto:dtyn13579@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<br>
 
-<!-- ==================== ABOUT ==================== -->
+---
 
-About Me
-class Developer:
+## ⚡ Developer Focus
 
-    name = "Dang Duc Tin"
-    location = "Vietnam"
-    role = "IT Student & Backend Developer"
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-    focus = [
-        "Backend Development",
-        "RESTful API",
-        "Database Design",
-        "System Design"
-    ]
+### Backend Development
 
-    stack = [
-        "Python",
-        "FastAPI",
-        "SQLAlchemy",
-        "MySQL",
-        "JavaScript"
-    ]
-
-    mindset = "Learn → Build → Improve"
-
-I'm an Information Technology student focused on building backend systems and practical applications.
-
-Building RESTful APIs with Python & FastAPI
-Designing relational databases with SQL & MySQL
-Working with SQLAlchemy & Pydantic
-Exploring Docker, System Design & Cloud
-Learning through real projects and hands-on development
-
-<!-- ==================== FOCUS ==================== -->
-
-Backend Focus
-
-<table align="center"> <tr> <td width="33%" align="center">
-
-API Development
+```text
+Python
+   ↓
 FastAPI
    ↓
-REST API
+RESTful API
    ↓
-Authentication
-   ↓
-Validation
-
-</td>
-
-<td width="33%" align="center">
-
-Database
-SQL
- ↓
-MySQL
- ↓
 SQLAlchemy
- ↓
-Database Design
+   ↓
+MySQL
+```
+
+Building APIs that are clean, scalable and easy to maintain.
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-Engineering
-Docker
-  ↓
+### Currently Exploring
+
+```text
 System Design
-  ↓
+      ↓
+Docker
+      ↓
 Cloud
-  ↓
-CI/CD
+      ↓
+DevOps
+      ↓
+Scalable Systems
+```
 
-</td> </tr> </table>
+Learning by building real projects instead of collecting tutorials like Pokémon.
 
-<!-- ==================== TECH STACK ==================== -->
+</td>
+</tr>
+</table>
 
-Tech Stack
-Core
+---
 
-<p> <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,postgres,mongodb" /> </p>
-
-Development
-
-<p> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css" /> </p>
-
-Tools
-
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" /> </p>
-
-<!-- ==================== ARCHITECTURE ==================== -->
-
-Backend Architecture
+## 🧠 My Development Philosophy
 
 <p align="center">
 
-                    CLIENT
-                       │
-                       ▼
-                ┌─────────────┐
-                │   FastAPI   │
-                │   REST API  │
-                └──────┬──────┘
-                       │
-             ┌─────────┴─────────┐
-             ▼                   ▼
-        ┌──────────┐       ┌──────────┐
-        │  Router  │       │  Schema  │
-        └────┬─────┘       └──────────┘
-             │
-             ▼
-        ┌──────────┐
-        │ Service  │
-        │  Layer   │
-        └────┬─────┘
-             │
-             ▼
-        ┌──────────┐
-        │SQLAlchemy│
-        │   ORM    │
-        └────┬─────┘
-             │
-             ▼
-        ┌──────────┐
-        │  MySQL   │
-        └──────────┘
+### `Don't just learn technology. Build something with it.`
 
 </p>
 
-<!-- ==================== PROJECTS ==================== -->
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-Featured Projects
+### 01
 
-<table> <tr>
+**LEARN**
 
-<td width="50%" valign="top">
-
-Rikkei Cinema
-
-Cinema management system with authentication, movie management and administration.
-
-Stack
-
-FastAPI SQLAlchemy MySQL JavaScript
-
-Repository
+Understand the fundamentals.
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-Student Management API
+### 02
 
-RESTful API for managing students, classes and their relationships.
+**BUILD**
 
-Stack
+Turn knowledge into projects.
 
-FastAPI Pydantic SQLAlchemy MySQL
+</td>
 
-Repository
+<td align="center" width="33%">
+
+### 03
+
+**IMPROVE**
+
+Refactor. Optimize. Repeat.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎬 Rikkei Cinema
+
+A modern cinema management system with authentication, movie management and admin features.
+
+**Tech**
+
+`FastAPI` `MySQL` `SQLAlchemy` `JavaScript`
+
+</td>
+
+<td width="50%">
+
+### 🎓 Student Management API
+
+RESTful API for managing students, classes and relationships.
+
+**Tech**
+
+`FastAPI` `Python` `MySQL` `Pydantic`
 
 </td>
 
@@ -177,84 +189,90 @@ Repository
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-AI Draw App
+### 🤖 AI Draw App
 
-Interactive drawing application using computer vision for real-time interaction.
+Interactive drawing application exploring computer vision and AI interaction.
 
-Stack
+**Tech**
 
-Python OpenCV MediaPipe
-
-Repository
+`Python` `OpenCV` `MediaPipe`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-E-Commerce Demo
+### 🛒 E-Commerce Demo
 
-Full-stack e-commerce application focused on product management and database architecture.
+A full-stack e-commerce project focused on product management and database architecture.
 
-Stack
+**Tech**
 
-React Node.js MySQL
-
-Repository
+`JavaScript` `React` `Node.js` `MySQL`
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
-<p align="center"> <a href="https://github.com/dtyns17?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
+<p align="center">
 
-<!-- ==================== CURRENTLY BUILDING ==================== -->
+<a href="https://github.com/dtyns17?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-Currently Building
+</p>
 
-<table align="center"> <tr>
+---
 
-<td width="50%" valign="top">
+## 📊 GitHub Analytics
 
-Learning
-Docker
-System Design
-Cloud Computing
-CI/CD
-Advanced FastAPI
 
-</td>
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dtyns17&theme=tokyonight&hide_border=true" />
+</p>
 
-<td width="50%" valign="top">
+---
 
-Improving
-API Architecture
-Database Design
-Authentication
-Clean Code
-Scalable Systems
+## 🐍 Contribution Journey
 
-</td>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
 
-</tr> </table>
+---
 
-<!-- ==================== GITHUB ==================== -->
+## 📈 Contribution Activity
 
-GitHub
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dtyns17&bg_color=0d1117&color=00f7ff&line=8a2be2&point=ffffff&area=true&hide_border=true" width="95%"/>
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dtyns17&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtyns17&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </p>
+---
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dtyns17&bg_color=0d1117&color=00f7ff&line=8a2be2&point=ffffff&area=true&hide_border=true" width="95%" /> </p>
+## 💡 Currently Learning
 
-<!-- ==================== CONTACT ==================== -->
+<p align="center">
 
-Connect
+`Python` · `FastAPI` · `SQLAlchemy` · `MySQL` · `JavaScript`
+· `React` · `Docker` · `System Design` · `Cloud`
 
-<p align="center"> <a href="https://www.linkedin.com/in/dangductin-dev/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.facebook.com/dg.ductin.17"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.tiktok.com/@dg.ductins.17"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> </a> <a href="mailto:dtyn13579@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+</p>
 
-<p align="center"> <strong>BUILD • LEARN • SHIP</strong> </p>
+---
 
-<p align="center"> <sub>Turning ideas into working systems.</sub> </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:8A2BE2,100:00F7FF&height=100&section=footer" width="100%"/> </p>
+<p align="center">
+
+### `BUILD • LEARN • SHIP`
+
+**Thanks for visiting my profile.**
+
+<p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00FF&height=120&section=footer"/>
+
+</p>
+
+</p>
