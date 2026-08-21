@@ -1,31 +1,12 @@
-<h1 align="center">
-  Đặng Đức Tín
-</h1>
+<!-- ==================== HERO ==================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Information+Technology+Student+%F0%9F%92%BB;Backend+%26+Full-Stack+Developer;Python+%7C+FastAPI+%7C+JavaScript;Building+Projects%2C+Learning+Every+Day;Turning+Ideas+Into+Working+Systems+%E2%9A%A1" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:111827&height=180&section=header&text=Đặng%20Đức%20Tín&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20IT%20Student&descAlignY=60&descSize=18" width="100%"/> </p>
 
-<p align="center">
-  <strong>BUILD.</strong>&nbsp;&nbsp;
-  <strong>LEARN.</strong>&nbsp;&nbsp;
-  <strong>SHIP.</strong>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+FastAPI+%7C+SQL;Building+RESTful+APIs;Database+%26+System+Design;Learning+by+Building" alt="Typing SVG" /> </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dangductin-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/dg.ductin.17">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.tiktok.com/@dg.ductins.17?is_from_webapp=1&sender_device=pc">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-  <a href="mailto:dtyn13579@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/dtyns17"> <img src="https://img.shields.io/badge/GitHub-dtyns17-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/dangductin-dev/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:dtyn13579@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
+<br>
 
 
 ---
