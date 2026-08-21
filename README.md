@@ -78,45 +78,6 @@ Learning by building real projects instead of collecting tutorials like Pokémon
 
 ---
 
-## 👨‍💻 About Me
-
-```python
-class Developer:
-
-    name = "Dang Duc Tin"
-    location = "Vietnam 🇻🇳"
-    role = "IT Student & Developer"
-
-    interests = [
-        "Backend Development",
-        "Full-Stack Development",
-        "RESTful API",
-        "Database Design",
-        "System Design",
-        "Cloud & DevOps"
-    ]
-
-    mindset = "Learn → Build → Improve → Repeat"
-
-    current_focus = [
-        "Python",
-        "FastAPI",
-        "SQL",
-        "JavaScript",
-        "React",
-        "Docker"
-    ]
-```
-
-* Currently studying **Information Technology**
-* Building projects with **Python, FastAPI, JavaScript & SQL**
-* Interested in **Backend Engineering & System Design**
-* Enjoy turning ideas into practical applications
-* Learning through **projects, debugging and experimentation**
-* Always looking for better ways to write cleaner and more maintainable code
-
----
-
 ## 🧠 My Development Philosophy
 
 <p align="center">
@@ -282,38 +243,11 @@ A full-stack e-commerce project focused on product management and database archi
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dtyns17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dtyns17&bg_color=0d1117&color=00f7ff&line=8a2be2&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
-
----
-
-## 🎯 2026 Roadmap
-
-```text
-[x] Learn Python fundamentals
-[x] Learn SQL & Database Design
-[x] Build REST APIs with FastAPI
-[x] Work with SQLAlchemy
-[x] Build CRUD applications
-
-[ ] Advanced FastAPI
-[ ] Docker & Containerization
-[ ] System Design
-[ ] Cloud Computing
-[ ] CI/CD
-[ ] Build larger production-ready projects
-```
 
 ---
 
@@ -328,29 +262,6 @@ A full-stack e-commerce project focused on product management and database archi
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/dangductin-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.facebook.com/dg.ductin.17">
-<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook"/>
-</a>
-
-<a href="https://www.tiktok.com/@dg.ductins.17">
-<img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok"/>
-</a>
-
-<a href="mailto:dtyn13579@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
 
 <p align="center">
 
