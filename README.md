@@ -16,16 +16,16 @@
   <a href="https://github.com/dtyn17">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/dangductin-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_FACEBOOK">
+  <a href="https://www.facebook.com/dg.ductin.17">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="YOUR_TIKTOK">
+  <a href="https://www.tiktok.com/@dg.ductins.17?is_from_webapp=1&sender_device=pc">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:dtyn13579@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -342,19 +342,19 @@ A full-stack e-commerce project focused on product management and database archi
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/dangductin-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_FACEBOOK">
+<a href="https://www.facebook.com/dg.ductin.17">
 <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook"/>
 </a>
 
-<a href="YOUR_TIKTOK">
+<a href="https://www.tiktok.com/@dg.ductins.17">
 <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dtyn13579@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
